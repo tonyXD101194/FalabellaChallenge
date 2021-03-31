@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FalabellaTest</string>
+
+    <!-- Menu -->
+    <string name="action_menu_action">Search</string>
+
+    <!-- Main Fragment -->
+    <string name="fragment_main_toolbar_title">Measures</string>
+    <string name="fragment_main_list_empty">No measures to show</string>
+    <string name="fragment_main_search_empty">No results for query</string>
+    <string name="fragment_main_search_hint">Search by code</string>
+
+    <!-- Detail Fragment -->
+    <string name="fragment_detail_title">Information</string>
+    <string name="fragment_detail_code">Code: %s</string>
+    <string name="fragment_detail_name">Name: %s</string>
+    <string name="fragment_detail_measure">Measure: %s</string>
+    <string name="fragment_detail_date">Date: %s</string>
+    <string name="fragment_detail_value">Value: %s</string>
+
+    <!-- Loading Dialogs -->
+    <string name="dialog_loading_title">Loading...</string>
+
+    <!-- Generic Actions -->
+    <string name="accept_button">Accept</string>
+
+    <!-- Generic Errors -->
+    <string name="error_service">The service is down now, try later</string>
+    <string name="list_empty_error">Something wrong happened</string>
+</resources>
